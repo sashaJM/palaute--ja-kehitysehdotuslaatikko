@@ -1,0 +1,9 @@
+/* Palautteiden suodattaminen drop down kentän kautta jotta kategorioiden nimiä ei tarvitse muistaa
+samalla tavalla kuin hakukentällä
+
+Kategorian suodatuksen haku pysyy vaikka palaute merkataan käsitellyksi
+
+käyttäjätunnukset ja kirjautuminen toimisi tietokannan kautta ( Mahdollisesti lisätä ja poistaa käyttäjiä
+riippuen yhdistyykö tietokanta olemassa oleviin tunnuksiin vai tuleeko olemaan erillinen)
+
+Sivuston ulkonäkö muokkauksia virallisempaan kpedu tyyliin */
